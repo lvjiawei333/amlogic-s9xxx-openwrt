@@ -7429,7 +7429,7 @@ CONFIG_PACKAGE_whereis=y
 
 #CONFIG_PACKAGE_aist=y
 #CONFIG_PACKAGE_luci-app-alist=y
-CONFIG_PACKAGE_luci-app-adguardhome=y
+#CONFIG_PACKAGE_luci-app-adguardhome=y
 #CONFIG_PACKAGE_luci-app-lucky=y
 #CONFIG_PACKAGE_luci-app-store=y
 #CONFIG_PACKAGE_luci-app-homeproxy=y
